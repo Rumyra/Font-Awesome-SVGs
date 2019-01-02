@@ -1,3 +1,5 @@
+## I have archived this repo as Font Awesome comes with SVGs now
+
 # Font Awesome SVGs
 
 Doing a lot of prototyping in the past, having [Font Awesome](http://fontawesome.io/) as part of my front end starter files was always really handy for quickly adding icons when I was building a UI.
